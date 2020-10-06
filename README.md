@@ -1,1 +1,1 @@
-# htpasswd-generator
+# .htpasswd generator
